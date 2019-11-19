@@ -1,0 +1,56 @@
+/*CSS*/
+/*comenta ai...*/
+selector{
+	propriedade:;
+	propriedade2:;
+}
+
+*{
+
+}
+
+body{
+	color: blue; 
+	font-family:impact;
+	background-color: #250055;
+}
+
+p{
+	font-size: 30px;
+	color:#659030;
+}
+
+h1{
+	font-family: Arial;
+}
+
+h2{
+	font-family: "Times New Roman";
+}
+
+header{
+	background-color: red;
+}
+
+div{
+	background-color: #ffffff;
+}
+
+#test{
+	background-color: 	#08D700;
+	color: black;
+	width: 50%;
+	float: left;
+}
+
+#teste{
+	background-color: blue;
+	color:black;
+	width: 50%;
+	float:right;
+}
+
+footer{
+	background-color: orange;
+	clear: 
+}
